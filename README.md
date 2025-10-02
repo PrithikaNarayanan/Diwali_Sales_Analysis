@@ -1,4 +1,4 @@
-##📊 Diwali Sales Analysis
+## 📊 Diwali Sales Analysis
 📌 Project Overview
 
 This project analyzes Diwali sales data to uncover customer purchasing behavior, product trends, and insights that can help improve business strategies. Using Python and data visualization libraries, the analysis highlights factors such as customer demographics, product categories, and spending patt
