@@ -17,7 +17,7 @@ This project analyzes Diwali sales data to uncover customer purchasing behavior,
 2. Pandas (data manipulation)
 3. NumPy (numerical computations)
 4. Matplotlib & Seaborn (visualizations)
-5. Jupyter Notebook
+   
 ## 📈 Key Insights
 
 ### 👥 Customer Insights
